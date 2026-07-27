@@ -1,0 +1,11 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data directories (if they contain generated/temporary data)
+dummy_data/
+
+```
